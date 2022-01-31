@@ -1,2 +1,7 @@
 Olá!!!
+<<<<<<< HEAD
 Olá 2.0 !!!
+=======
+
+alteracao para branch
+>>>>>>> alterado a branch
